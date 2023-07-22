@@ -3,7 +3,6 @@
 # PHP Webshell Tool
 
 PHP Webshell Tool is a versatile and easy-to-use cybersecurity PHP webshell tool that allows for remote execution of system commands. Its customizable and lightweight design provides a clean and intuitive interface for performing a variety of pentesting commands. With PHP Webshell Tool, users can efficiently and securely navigate through the server file system, test for reverse shell connections,upload files, and much more.
-<br><br><br>
 
 ## Features
 
@@ -15,16 +14,11 @@ PHP Webshell Tool is a versatile and easy-to-use cybersecurity PHP webshell tool
 - running application information
 - file upload
 
-<br>
-
-
 ## Installation
 
 To install PHP Webshell Tool onto a server, simply copy the php file from [this link](https://github.com/MrP4nda1337/php-webshell/blob/main/cpwt.php) and upload it to the server's web directory.
 
 Next, navigate to the webshell URL in your browser and you should see the PHP Webshell Tool interface.
-
-<br>
 
 ## Usage
 
