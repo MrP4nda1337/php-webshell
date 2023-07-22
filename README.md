@@ -1,5 +1,4 @@
 <img width="681" alt="PHP Webshell Tool" src="https://github.com/MrP4nda1337/php-webshell/blob/main/php-webshell.png">
-<br>
 
 # PHP Webshell Tool
 
