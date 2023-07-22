@@ -31,14 +31,9 @@ To test for a reverse shell connection, put in your ip and port and hit execute.
 **File Upload**
 To upload a file, click the browse button and selected the desired file. Then hit upload. PHP Webshell Tool will attempt to upload your file into the current directory PHP Webshell Tool is running in.
 
-<br>
-
 ## Contributing
 
 If you find a bug or have a suggestion for PHP Webshell Tool, please submit email to me.
-
-
-<br>
 
 ## Version
 Beta version 1.0
